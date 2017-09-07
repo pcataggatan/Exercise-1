@@ -1,0 +1,3 @@
+2017-09-05 23:36:57,488 0    [http-nio-8080-exec-10] INFO  edu.matc.persistence.UserData  - The sql statement was : SELECT * FROM users
+2017-09-05 23:36:57,490 2    [http-nio-8080-exec-10] ERROR edu.matc.persistence.UserData  - (error) The sql statement was : SELECT * FROM users
+2017-09-05 23:39:10,572 0    [http-nio-8080-exec-10] ERROR edu.matc.persistence.UserData  - (error) The sql statement was : SELECT * FROM users
